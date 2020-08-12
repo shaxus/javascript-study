@@ -1,3 +1,4 @@
-# vue-helloworld
+# javascript-study
 
-my first github program.
+## my first github program.
+
